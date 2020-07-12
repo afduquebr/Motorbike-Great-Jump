@@ -67,9 +67,7 @@ def Plot(j, V0, P, Screen_2):
                 Screen_2.blit(Fall, (Motorbike(V0)[49][0] - 35, 300))
         #Si se va por la lateral
         elif (260 <= V0 and V0 < 290):
-            print(P)
             Screen_2.blit(Gone, P)
         #Si se va por la parte superior
         else:
-            print(P)
             Screen_2.blit(Gone, P)
