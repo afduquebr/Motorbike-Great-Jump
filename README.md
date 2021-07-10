@@ -13,8 +13,5 @@ la librería *Pygame* y el *método numérico de Newton* para la solución del p
 ## Objetivo
 Esta interfaz tiene como objetivo brindar un acercamiento interactivo a estudiantes de mecánica clásica con énfasis en el movimiento parabólico amortiguado, el cual cuenta con una solución que no es analítica. Para esto se provee una herramienta visual que permita evidenciar la física del fenómeno tomando como variable la velocidad inicial que se le asigna al objeto.
 
-***
-## Instrucciones 
- 1. 
 
 
